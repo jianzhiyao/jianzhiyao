@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on beego and gorm
+- 🔭 I’m currently working on tidb, beego and gorm
 - 🌱 I’m currently learning microservice, algorithm and cloud native
 - 💬 Ask me about beego or php
 - 📫 How to reach me: jianzhiyao020@outlook.com
